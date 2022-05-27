@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod umask 751 mkdir my_dir
+chmod -R 751 my_dir
